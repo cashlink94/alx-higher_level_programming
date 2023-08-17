@@ -1,0 +1,8 @@
+#include "lists.h"
+
+int largest_palindrome(void)
+{
+    /* Replace with the actual logic to find the largest palindrome */
+    return 12321;
+}
+
